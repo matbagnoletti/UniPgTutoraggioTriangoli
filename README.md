@@ -45,7 +45,7 @@ Per poter utilizzare il programma, è necessario seguire i seguenti passaggi:
    git clone https://www.github.com/matbagnoletti/UniPG-Esercizio2TutoratoGizzi.git
    ```
    In alternativa, effettua il download del file compresso del progetto ed estrailo in una cartella locale del tuo computer.
-2. Sposta il terminale nella cartella del progetto:
+2. Nel terminale, spostati nella cartella del progetto:
    ```bash
    cd UniPG-Esercizio2TutoratoGizzi
    ```
