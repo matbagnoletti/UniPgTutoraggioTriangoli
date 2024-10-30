@@ -3,8 +3,8 @@
 <p align="center" style="font-family: monospace">Made by <a href="https://github.com/matbagnoletti">@matbagnoletti</a></p>
 <p align="center" style="font-family: monospace">Corso di Programmazione Procedurale I° anno a.a. 2024/2025, <a href="https://www.dmi.unipg.it/didattica/corsi-di-studio-in-informatica/informatica-triennale">UniPG - DMI</a></p>
 <p align="center">
-    <img src="https://img.shields.io/github/last-commit/matbagnoletti/UniPG-Esercizio2TutoratoGizzi.git?style=for-the-badge" alt="Ultimo commit">
-    <img src="https://img.shields.io/github/languages/top/matbagnoletti/UniPG-Esercizio2TutoratoGizzi.git?style=for-the-badge" alt="Linguaggio">
+    <img src="https://img.shields.io/github/last-commit/matbagnoletti/UniPG-Esercizio2TutoratoGizzi?style=for-the-badge" alt="Ultimo commit">
+    <img src="https://img.shields.io/github/languages/top/matbagnoletti/UniPG-Esercizio2TutoratoGizzi?style=for-the-badge" alt="Linguaggio">
 </p>
 
 ## Descrizione
