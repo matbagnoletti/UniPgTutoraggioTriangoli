@@ -3,8 +3,8 @@
 <p align="center" style="font-family: monospace">Made by <a href="https://github.com/matbagnoletti">@matbagnoletti</a></p>
 <p align="center" style="font-family: monospace">Corso di Programmazione Procedurale I° anno a.a. 2024/2025, <a href="https://www.dmi.unipg.it/didattica/corsi-di-studio-in-informatica/informatica-triennale">UniPG - DMI</a></p>
 <p align="center">
-    <img src="https://img.shields.io/github/last-commit/matbagnoletti/UniPG-Esercizio2TutoratoGizzi?style=for-the-badge" alt="Ultimo commit">
-    <img src="https://img.shields.io/github/languages/top/matbagnoletti/UniPG-Esercizio2TutoratoGizzi?style=for-the-badge" alt="Linguaggio">
+    <img src="https://img.shields.io/github/last-commit/matbagnoletti/UniPGTutoraggioTriangoli?style=for-the-badge" alt="Ultimo commit">
+    <img src="https://img.shields.io/github/languages/top/matbagnoletti/UniPGTutoraggioTriangoli?style=for-the-badge" alt="Linguaggio">
 </p>
 
 ## Descrizione
@@ -33,6 +33,8 @@ Prima controllare se le misure dei tre lati ricevuti in input (A, B, C) rapprese
     <li>ogni lato deve essere minore della somma degli altri due</li>
     <li>ogni lato deve essere maggiore della differenza degli altri due</li>
 </ul>
+
+Il file eseguibile della soluzione proposta dovrà presentarsi nel formato `<nomeCognome>`.
 
 ## Soluzione proposta
 Il programma richiede all'utente di inserire i valori dei tre lati del triangolo e, successivamente, verifica se i valori inseriti rappresentano un triangolo tramite la funzione `isTriangolo()`.
