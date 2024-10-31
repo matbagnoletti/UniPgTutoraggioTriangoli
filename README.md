@@ -44,12 +44,12 @@ Se i valori sono validi, il programma determina il tipo di triangolo in base ai 
 Per poter utilizzare il programma, è necessario seguire i seguenti passaggi:
 1. Effettua il clone della repository con il comando:
    ```bash
-   git clone https://www.github.com/matbagnoletti/UniPG-Esercizio2TutoratoGizzi.git
+   git clone https://www.github.com/matbagnoletti/UniPGTutoraggioTriangoli.git
    ```
    In alternativa, effettua il download del file compresso del progetto ed estrailo in una cartella locale del tuo computer.
 2. Nel terminale, spostati nella cartella del progetto:
    ```bash
-   cd UniPG-Esercizio2TutoratoGizzi
+   cd UniPGTutoraggioTriangoli
    ```
 3. Compila il codice sorgente:
    ```bash
